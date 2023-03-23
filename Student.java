@@ -4,7 +4,7 @@ public class Student {
     private String gradYear;
     private int StudentId;
     private String Courses;
-    aaaa
+    aaaaaaa
 
 
     //We need a constructor to ask their first name and the year
