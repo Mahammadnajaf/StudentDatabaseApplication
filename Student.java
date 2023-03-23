@@ -16,7 +16,7 @@ public class Student {
     //we need to check the balance
 
     //we need them to pay the tution
-
+s
 
     //and we need to show current status
 }
